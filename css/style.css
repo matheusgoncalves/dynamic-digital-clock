@@ -16,6 +16,7 @@ body {
     align-items: center;
 }
 
+/* Relógio */
 .clock {
     display: flex;
     justify-content: space-around;
