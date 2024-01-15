@@ -1,0 +1,11 @@
+@media (max-width: 680px) {
+    .clock-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    #minutes::before, #minutes::after {
+        display: none;
+    }
+}
